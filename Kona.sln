@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kona", "Kona.Web\Kona.csproj", "{EAD7378A-6D01-4929-8D84-5787D51799FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kona.Specs", "Kona.Specs\Kona.Specs.csproj", "{A7741301-D1AC-4AA9-AA45-6DC5E03E0483}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{EAD7378A-6D01-4929-8D84-5787D51799FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAD7378A-6D01-4929-8D84-5787D51799FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAD7378A-6D01-4929-8D84-5787D51799FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7741301-D1AC-4AA9-AA45-6DC5E03E0483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7741301-D1AC-4AA9-AA45-6DC5E03E0483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7741301-D1AC-4AA9-AA45-6DC5E03E0483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7741301-D1AC-4AA9-AA45-6DC5E03E0483}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
